@@ -1,0 +1,26 @@
+.p-card-footer {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.product-list {
+    display: flex;
+    /* column-count: 2; */
+    column-gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+
+.p-card .p-card-body {
+    padding: 0.25rem;
+}
+
+.p-card-header img {
+    width: 100%;
+    height: 300px;
+}
